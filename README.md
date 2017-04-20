@@ -1,2 +1,2 @@
-# mrakitin.gitgub.io
+# mrakitin.github.io & github.mrakitin.xyz
 GitHub web site
