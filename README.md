@@ -1,4 +1,4 @@
 # mrakitin.github.io
 GitHub web site:
-- [mrakitin.github.io](https://mrakitin.github.io)
-- [github.mrakitin.xyz](https://github.mrakitin.xyz)
+- [mrakitin.github.io](http://mrakitin.github.io)
+- [github.mrakitin.xyz](http://github.mrakitin.xyz)
